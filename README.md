@@ -1,5 +1,4 @@
-# sms_spam_detector
-Module 21 Challenge
+# Module 21 Challenge
 
 Public URL will expire after 72 hours. Run the cell that contains the following code to regenerate a public URL:
 
