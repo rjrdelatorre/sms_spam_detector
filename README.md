@@ -10,3 +10,6 @@ To get dark_mode (as in the [challenge instructions](https://bootcampspot.instru
 ```
 Running on public URL: https://7579ae24e185a198e9.gradio.live?__theme=dark
 ```
+
+Screenshot of working gradio UI with dark theme:
+![screenshot](gradio_screenshot.png)
